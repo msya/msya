@@ -4,15 +4,17 @@ Read [my blog](https://codingwithmohit.com/) or [follow me on Twitter](https://t
 
 ## Recent Talks
 
-[Building StateFlows with Jetpack Compose](https://youtu.be/BFZ9jLVdVUc)
+[Migrating to Kotlin State and Shared Flow](https://www.droidcon.com/2022/06/28/migrating-to-kotlin-state-shared-flows/)
+  
+[Building StateFlows with Compose](https://youtu.be/BFZ9jLVdVUc)
   
 [Challenges of building Kotlin Multiplatform Libraries](https://youtu.be/R2ADHEv71H4)
   
-[Using Jetpack Compose with CashApp's Molecule Library](https://youtu.be/rUpZSZedoHI)
+[Using Jetpack Compose with Cash App's Molecule Library](https://youtu.be/rUpZSZedoHI)
   
 [Improving Gradle Builds](https://youtu.be/O2sPRJ3a4Bc)
   
-[Modern Android Development features](https://youtu.be/GZMFJyeP5Nw)
+[Modern Android Development](https://youtu.be/GZMFJyeP5Nw)
   
 [Jetpack Compose vs SwiftUI ](https://youtu.be/Pf6_aWsBR7g)
 
